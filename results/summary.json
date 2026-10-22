@@ -1,0 +1,38 @@
+{
+ "images": 299,
+ "detected": 259,
+ "original_all": 0.7953667953667953,
+ "improved_all": 0.888030888030888,
+ "original_heldout": 0.7829457364341085,
+ "improved_heldout": 0.875968992248062,
+ "heldout_n": 129,
+ "mediapipe_ms_median": 17.80778600004851,
+ "mediapipe_ms_p95": 19.041652999931102,
+ "per_class": {
+  "fist": {
+   "n": 48,
+   "original": 1.0,
+   "improved": 0.9375
+  },
+  "one": {
+   "n": 54,
+   "original": 0.7592592592592593,
+   "improved": 0.7962962962962963
+  },
+  "peace": {
+   "n": 51,
+   "original": 0.8823529411764706,
+   "improved": 0.9803921568627451
+  },
+  "three": {
+   "n": 52,
+   "original": 0.6346153846153846,
+   "improved": 0.75
+  },
+  "palm": {
+   "n": 54,
+   "original": 0.7222222222222222,
+   "improved": 0.9814814814814815
+  }
+ }
+}
